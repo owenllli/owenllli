@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there! I'm Owen Li 👋
+
+- 😭 I'm currently wasting time on playing games and watching bilibili
+- 💕 I'm currently learing `java`
+- 🤔 still exploring programming...
 
 <!--
 **owenllli/owenllli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
