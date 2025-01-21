@@ -1,15 +1,25 @@
 ## Hi there! I'm Owen Li 👋
 
+<a href="https://github.com/owenllli">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owenllli&layout=normal" />
+</a>
+
 - 😭 I'm currently wasting time on playing games and watching bilibili
 - 💕 I'm currently learing `java`
 - 🤔 still exploring programming...
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owenllli)
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owenllli&layout=normal)
+-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/owenllli/owenllli/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/owenllli/owenllli/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/owenllli/owenllli/output/github-snake.svg" />
+</picture>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -17,11 +27,7 @@
  > 
 > 🏆 9 Contributions in the Year 2025
  > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 2 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
+> 📜 2 Public Repositories
  > 
 **I'm a Night 🦉** 
 
@@ -66,26 +72,5 @@ HTML                     1 repo              ███████████�
 ```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/owenllli/owenllli/main/assets/bar_graph.png)
-
-
  Last Updated on 21/01/2025 11:07:18 UTC
 <!--END_SECTION:waka-->
-
-<!--
-**owenllli/owenllli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
