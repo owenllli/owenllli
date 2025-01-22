@@ -25,8 +25,6 @@
 
 > 📦 2.7 kB Used in GitHub's Storage 
  > 
-> 🏆 11 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
@@ -46,5 +44,5 @@ HTML                     1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/owenllli/owenllli/main/assets/bar_graph.png)
 
 
- Last Updated on 21/01/2025 18:41:13 UTC
+ Last Updated on 22/01/2025 18:41:42 UTC
 <!--END_SECTION:waka-->
